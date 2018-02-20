@@ -1,0 +1,7 @@
+.page-section {
+
+  &--grey {
+    background-color: $mainGrey;
+  }
+
+}
