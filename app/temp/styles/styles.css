@@ -348,8 +348,35 @@ body {
 }
 
 .Japanese {
+
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+
 }
+
+.heading {
+
+  font-size: 3.5rem;
+
+}
+
+.subheading {
+
+  font-size: 2rem;
+
+}
+
+.subheading--light {
+
+    font-weight: 500;
+    font-size: 1.05rem;
+
+  }
+
+.img--shadow {
+
+    box-shadow: 13px 13px 20px #8e8e8e;
+
+  }
 
 * {
   box-sizing: border-box;
@@ -400,6 +427,12 @@ body {
 
   }
 
+.page-section {
+
+  margin-bottom: 40px;
+
+}
+
 .page-section--grey {
 
     background-color: #e8e8e8;
@@ -433,6 +466,7 @@ body {
 
     display: inline-block;
     margin: 15px 15px;
+    padding-left: 130px;
 
   }
 
@@ -482,11 +516,14 @@ body {
 .row__text--center {
 
     text-align: center;
+    padding-top: 140px;
+    padding-left: 180px;
 
   }
 
 .row__img--center {
 
     margin: auto;
+    padding-left: 310px;
 
   }

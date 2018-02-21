@@ -1,5 +1,7 @@
 .page-section {
 
+  margin-bottom: 40px;
+
   &--grey {
 
     background-color: $mainGrey;

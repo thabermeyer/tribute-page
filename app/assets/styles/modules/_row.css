@@ -31,12 +31,15 @@
   &__text--center {
 
     text-align: center;
+    padding-top: 140px;
+    padding-left: 180px;
 
   }
 
   &__img--center {
 
     margin: auto;
+    padding-left: 310px;
 
   }
 
