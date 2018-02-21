@@ -2,4 +2,38 @@
 
   background-color: $mainGrey;
 
+  &--pull-right {
+
+    float: right;
+
+  }
+
+  ul {
+
+    margin: 20px 15px;
+    padding: 0;
+    @mixin clearfix;
+
+  }
+
+  li {
+
+    list-style: none;
+    float: left;
+    padding-right: 120px;
+
+  }
+
+  a {
+
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 15px 0;
+    background-color: $darkGrey;
+    min-width: 150px;
+
+  }
+
 }

@@ -1,0 +1,15 @@
+.site-header {
+
+  background-color: $mainGrey;
+  position: absolute;
+  width: 100%;
+  top: 0;
+
+  &__navheading {
+
+    display: inline-block;
+    margin: 15px 15px;
+
+  }
+
+}

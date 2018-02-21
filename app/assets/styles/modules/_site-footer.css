@@ -1,5 +1,7 @@
 .site-footer {
 
   background-color: $mainGrey;
+  padding: 10px;
+  text-align: center;
 
 }

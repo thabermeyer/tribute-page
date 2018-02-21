@@ -1,7 +1,15 @@
 .page-section {
 
   &--grey {
+
     background-color: $mainGrey;
+
+  }
+
+  &--top {
+
+    margin-top: 130px;
+
   }
 
 }
