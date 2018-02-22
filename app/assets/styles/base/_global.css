@@ -33,6 +33,31 @@ body {
 
   }
 
+  &--center {
+
+    text-align: center;
+
+  }
+
+  &--small {
+
+    font-size: 1.3rem;
+
+  }
+
+  &--bottom-padding {
+
+    padding-bottom: 5px;
+
+  }
+
+}
+
+.date {
+
+  font-weight: 600;
+  padding-right: 25px;
+
 }
 
 .img {

@@ -28,6 +28,13 @@
 
   }
 
+  &__6 {
+
+    float: left;
+    width: 50%;
+
+  }
+
   &__text--center {
 
     text-align: center;
@@ -57,6 +64,12 @@
     margin: auto;
     padding-left: 140px;
     padding-top: 18px;
+
+  }
+
+  &--bottom-padding {
+
+    padding-bottom: 10px;
 
   }
 

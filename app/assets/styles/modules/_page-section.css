@@ -16,4 +16,10 @@
 
   }
 
+  &--more-bottom-padding {
+
+    padding-bottom: 25px;
+
+  }
+
 }
