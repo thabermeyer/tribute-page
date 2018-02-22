@@ -359,6 +359,12 @@ body {
 
 }
 
+.heading--center {
+
+    text-align: center;
+
+  }
+
 .subheading {
 
   font-size: 2rem;
@@ -436,6 +442,8 @@ body {
 .page-section--grey {
 
     background-color: #e8e8e8;
+    padding-top: 1px;
+    padding-bottom: 60px;
 
   }
 
@@ -521,9 +529,26 @@ body {
 
   }
 
-.row__img--center {
+.row__text--left {
+
+    text-align: left;
+    line-height: 1.8;
+    padding-left: 40px;
+    max-width: 970px;
+
+  }
+
+.row__img--right-center {
 
     margin: auto;
     padding-left: 310px;
+
+  }
+
+.row__img--left-center {
+
+    margin: auto;
+    padding-left: 140px;
+    padding-top: 18px;
 
   }

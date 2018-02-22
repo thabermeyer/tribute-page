@@ -36,10 +36,27 @@
 
   }
 
-  &__img--center {
+  &__text--left {
+
+    text-align: left;
+    line-height: 1.8;
+    padding-left: 40px;
+    max-width: 970px;
+
+  }
+
+  &__img--right-center {
 
     margin: auto;
     padding-left: 310px;
+
+  }
+
+  &__img--left-center {
+
+    margin: auto;
+    padding-left: 140px;
+    padding-top: 18px;
 
   }
 

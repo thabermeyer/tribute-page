@@ -5,6 +5,8 @@
   &--grey {
 
     background-color: $mainGrey;
+    padding-top: 1px;
+    padding-bottom: 60px;
 
   }
 
