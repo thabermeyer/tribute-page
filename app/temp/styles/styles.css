@@ -412,7 +412,13 @@ body {
 .date {
 
   font-weight: 600;
-  padding-right: 25px;
+
+}
+
+td {
+
+  padding: 10px;
+  line-height: 1.4;
 
 }
 
