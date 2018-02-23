@@ -45,9 +45,22 @@ body {
 
   }
 
+  &--smaller {
+
+    font-size: 1.2rem;
+
+  }
+
   &--bottom-padding {
 
     padding-bottom: 5px;
+
+  }
+
+  &--vertical-padding {
+
+    padding-top: 4px;
+    padding-bottom: 4px;
 
   }
 

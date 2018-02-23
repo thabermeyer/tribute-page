@@ -390,9 +390,22 @@ body {
 
   }
 
+.subheading--smaller {
+
+    font-size: 1.2rem;
+
+  }
+
 .subheading--bottom-padding {
 
     padding-bottom: 5px;
+
+  }
+
+.subheading--vertical-padding {
+
+    padding-top: 4px;
+    padding-bottom: 4px;
 
   }
 
